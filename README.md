@@ -53,28 +53,3 @@ uv pip install -e .
 
 MIT
 
-## Next Steps to Push to GitHub
-
-1. Initialize git repository:
-```bash
-git init
-```
-
-2. Add all files:
-```bash
-git add .
-```
-
-3. Commit initial version:
-```bash
-git commit -m "Initial commit"
-```
-
-4. Create a new repository on GitHub and add remote:
-```bash
-git remote add origin https://github.com/yourusername/mdtotex.git
-```
-
-5. Push to GitHub:
-```bash
-git push -u origin main
